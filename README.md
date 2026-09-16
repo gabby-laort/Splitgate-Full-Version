@@ -245,4 +245,4 @@ This repository serves as the official landing page for Splitgate. The software 
 **Get the most recent version of Splitgate today!**
 
 ---
-**Last updated:** 2026-09-16 10:41:13 UTC
+**Last updated:** 2026-09-16 15:16:57 UTC
